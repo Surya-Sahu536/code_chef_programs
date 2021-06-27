@@ -34,6 +34,9 @@ Example case 1: The total time given to both clocks after 10 turns is 2⋅(180+1
 Example case 3: The total time given to both clocks after 12 turns is 2⋅(180+12)=384 seconds. The total time left at the end is 192+192=384 seconds. The duration of the game is 384−384=0 seconds.
 
 */
+
+
+
 #include <stdio.h>
 
 int main(void) {
