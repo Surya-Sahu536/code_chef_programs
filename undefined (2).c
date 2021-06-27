@@ -30,6 +30,9 @@ Example case 2: The sum of two opposite angles A+C=10∘+170∘=180∘ and B+D=2
 
 Example case 3: The sum of two opposite angles B+D=1∘+1∘≠180∘.
 */
+
+
+
 #include <stdio.h>
 
 int main(void) {
