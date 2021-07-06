@@ -1,3 +1,4 @@
+/*
 Chefland has 7 days in a week. Chef is very conscious about his work done during the week.
 
 There are two ways he can spend his energy during the week. The first way is to do x units of work every day and the second way is to do y (>x) units of work for the first d (<7) days and to do z (<x) units of work thereafter since he will get tired of working more in the initial few days.
@@ -31,7 +32,7 @@ Test Case 1: Using the first strategy, Chef does 2⋅7=14 units of work and usin
 
 Test Case 2: Using the first strategy, Chef does 2⋅7=14 units of work and using the second strategy Chef does 3⋅6+1⋅1=19 units of work. So the maximum amount of work that Chef can do is max(14,19)=19 units by using the second strategy.
 
-
+*/
 
 
 
