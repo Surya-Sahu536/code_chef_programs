@@ -1,4 +1,5 @@
 # cook your dish here
+#
 def power(base,powr):
     mod = 10**9+7
     res = 1
